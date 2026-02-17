@@ -1,0 +1,40 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20260217145536
+Username: LAPTOP-SV80KFGL\rahul
+RunAs User: LAPTOP-SV80KFGL\rahul
+Configuration Name: 
+Machine: LAPTOP-SV80KFGL (Microsoft Windows NT 10.0.26200.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 6688
+PSVersion: 5.1.26100.7705
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.7705
+BuildVersion: 10.0.26100.7705
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is .\logs\amr_predictor_20260217_145536.log
+╔══════════════════════════════════════════════════════════════╗
+║                 AMR-Predictor v1.0                           ║
+║         Antimicrobial Resistance Prediction Tool              ║
+║              Industrial Bioinformatics Solution               ║
+╚══════════════════════════════════════════════════════════════╝
+
+[1/6] Validating input...
+  Found 1 files to process
+[2/6] Processing sequences...
+  Processed 2 sequences from sample_data.fasta
+[3/6] Analyzing AMR genes...
+  Loading reference database...
+  Reference database not found. Creating minimal database...
+PS>TerminatingError(): "A hash table can only be added to another hash table."
+>> TerminatingError(): "A hash table can only be added to another hash table."
+✗ Error: A hash table can only be added to another hash table.
+  Check log file: .\logs\amr_predictor_20260217_145536.log
+**********************
+Windows PowerShell transcript end
+End time: 20260217145536
+**********************

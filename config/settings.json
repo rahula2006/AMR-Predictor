@@ -1,0 +1,16 @@
+{
+    "InputFormat": "fasta",
+    "OutputFormat": "html",
+    "MinSequenceLength": 10,
+    "MinGCContent": 30,
+    "KmerSize": 21,
+    "MatchThreshold": 0.8,
+    "Threads": 4,
+    "Verbose": true,
+    "AlertOnHighRisk": true,
+    "EmailReport": false,
+    "SmtpServer": "",
+    "RecipientEmail": "",
+    "DatabasePath": "data/reference/amr_genes.db",
+    "LogLevel": "INFO"
+}

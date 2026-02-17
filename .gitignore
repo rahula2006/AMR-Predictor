@@ -1,0 +1,17 @@
+# Logs
+logs/
+*.log
+
+# Results
+results/
+
+# Python cache (if any)
+__pycache__/
+*.pyc
+
+# VS Code settings (if any)
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db

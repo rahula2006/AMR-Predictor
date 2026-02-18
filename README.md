@@ -1,4 +1,4 @@
-\# 🧬 AMR-Predictor: Antimicrobial Resistance Prediction Tool
+\🧬 AMR-Predictor: Antimicrobial Resistance Prediction Tool
 
 
 
@@ -10,7 +10,7 @@
 
 
 
-\## 🔬 Overview
+\ 🔬 Overview
 
 
 
@@ -18,7 +18,7 @@ AMR-Predictor is an industrial-grade bioinformatics solution for detecting antim
 
 
 
-\### Key Features
+\ Key Features
 
 \- \*\*Multi-format support\*\*: FASTA, FASTQ, and GenBank files
 
@@ -34,11 +34,11 @@ AMR-Predictor is an industrial-grade bioinformatics solution for detecting antim
 
 
 
-\## 🚀 Quick Start
+\ Quick Start
 
 
 
-\### Prerequisites
+\Prerequisites
 
 \- Windows PowerShell 5.1 or later
 
@@ -48,7 +48,7 @@ AMR-Predictor is an industrial-grade bioinformatics solution for detecting antim
 
 
 
-\### Installation
+\ Installation
 
 
 
